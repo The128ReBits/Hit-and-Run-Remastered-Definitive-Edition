@@ -69,7 +69,7 @@ I used ComfyUI with several image models to produce candidates for each texture.
 
 ## Manual edition prepared for Donut Team review
 
-There is also a separate textures-only LMLM edition with the configurable texture groups/levels. It excludes the installer, Modern mode's proxy DLL, ReShade and DLSS Feeder. It must be shown with previews recorded without those removed components. A separate readable offline Python source tool can prepare the local SHARLatino adaptation from the player's own installed files; no Jebano recordings are bundled. This is not the complete graphics package or an approved Mod Bakery release. File/preparation checks are not new gameplay tests. See its dedicated download and English/Spanish manual when available.
+There is also a separate textures-only LMLM edition with the configurable texture groups/levels. It excludes the installer, Modern mode's proxy DLL, ReShade and DLSS Feeder. It must be shown with previews recorded without those removed components. A separate readable offline Python source tool can prepare the local SHARLatino adaptation from the player's own installed files; no Jebano recordings are bundled. This is not the complete graphics package or an approved Mod Bakery release. File/preparation checks are not new gameplay tests. [Download the textures-only manual edition on ModDB](https://www.moddb.com/mods/the-simpsons-hit-run-definitive-edition-by-the128rebits/downloads/remastered-textures-manual-lmlm-edition-1312). The ZIP contains the LMLM, English/Spanish manual and the separate readable helper source. For the complete graphics setup, use the complete installer package linked above.
 
 ## Credits and support
 
