@@ -63,6 +63,14 @@ He jugado en castellano, inglés y latino. Francés y alemán están preparados,
 
 El mod de personajes y coches se descarga aparte y funciona sin el remaster ni esta actualización. Si quieres los dos, instala primero este y luego el otro con su instalador.
 
+## How I selected the textures
+
+I used ComfyUI with several image models to produce candidates for each texture. I compared the candidates one by one against the original and chose the version I considered most faithful, rather than automatically choosing the sharpest result. AI assistance was part of producing the candidates; the comparison and final choices were my work. Exact image-model names still need to be consolidated for platform-specific disclosure.
+
+## Manual edition prepared for Donut Team review
+
+There is also a separate textures-only LMLM edition with the configurable texture groups/levels. It excludes the installer, Modern mode's proxy DLL, ReShade and DLSS Feeder. It must be shown with previews recorded without those removed components. A separate readable offline Python source tool can prepare the local SHARLatino adaptation from the player's own installed files; no Jebano recordings are bundled. This is not the complete graphics package or an approved Mod Bakery release. File/preparation checks are not new gameplay tests. See its dedicated download and English/Spanish manual when available.
+
 ## Credits and support
 
 Project and improvements: **The128ReBits**. Lucas Mod Launcher/tools: Lucas Cardellini and Donut Team. SHARLatino: Jebano. ReShade: crosire; shaders: crosire, CeeJay.dk and contributors; Deband: haasn; dgVoodoo: Dege; DLSS5-Feeder: jlrouzies-fr and NIGos. Other component authors/licences are listed in the download. Original game: Radical Entertainment / Vivendi Universal Games and Fox. Unofficial fan project. AI-assisted texture improvement with manual comparison/selection; AI assistance in promotional text/media. No new licence over third-party assets is granted by this documentation.
@@ -70,3 +78,4 @@ Project and improvements: **The128ReBits**. Lucas Mod Launcher/tools: Lucas Card
 The mod is free. Follow development, share it with a friend, or support future improvements if you want:
 
 [YouTube](https://www.youtube.com/@The128ReBits) · [Instagram](https://www.instagram.com/The128ReBits/) · [TikTok](https://www.tiktok.com/@the128rebits) · [Patreon](https://www.patreon.com/cw/The128ReBits) · [Ko-fi](https://ko-fi.com/the128rebits) · [All links](https://linktr.ee/the128rebits)
+
